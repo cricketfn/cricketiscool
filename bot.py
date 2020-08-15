@@ -80,4 +80,4 @@ async def help(ctx):
 	e.set_footer(text="Made By Cricket FN")
 	await ctx.send(embed=e)
 		
-bot.run("NzQzODA0MjQ0MTA0MzE1MDAw.XzZ_rw.22g0N2Jkmv-amTFoP7o_1pGU7OA")
+run.bot("")
